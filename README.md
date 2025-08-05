@@ -334,10 +334,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Tailwind CSS](https://tailwindcss.com/) for the utility-first CSS framework
 - [MongoDB](https://www.mongodb.com/) for the flexible NoSQL database
 
-## 📞 Support
-
-- **Issues**: (https://github.com/HadyGhounim/your-repo/issues)
-- **Email**: hadyghounim@gmail.com
 
 ---
 
