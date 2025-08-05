@@ -336,9 +336,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/your-repo/issues)
-- **Email**: [your-email@example.com]
-- **Documentation**: [Add your docs URL here]
+- **Issues**: (https://github.com/HadyGhounim/your-repo/issues)
+- **Email**: hadyghounim@gmail.com
 
 ---
 
