@@ -2,9 +2,6 @@
 
 A full-stack application that generates website sections from user ideas using Next.js, NestJS, and MongoDB.
 
-## 🚀 Live Demo
-
-[Add your deployed application URL here]
 
 ## ✨ Features
 
