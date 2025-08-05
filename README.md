@@ -3,6 +3,7 @@
 A full-stack application that generates website sections from user ideas using Next.js, NestJS, and MongoDB.
 
 
+
 ## ✨ Features
 
 - 🎨 **Modern UI**: Beautiful, responsive interface built with Next.js and Tailwind CSS
